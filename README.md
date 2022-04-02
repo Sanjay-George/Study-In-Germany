@@ -55,4 +55,12 @@ SOP is extremely crucial to the admission process. It could decide whether you m
 
 **Tip:** Get your SOP reviewed on Reddit. There's a [subreddit for just that](https://www.reddit.com/r/StatementOfPurpose/)
 
+## Apply to Universities ahead of deadlines
+Deadlines are important! So get your documents ready and apply way before the last date.
+
+There are basically 2 ways that universities accept applications:
+1. **Direct Application:** This differs from uni to uni, so follow the instructions on their website. Most probably you'll need to send physical documents to the university (probably even notarized).
+2. **Through Uni-Assist:** This is easy! [Uni Assist](https://my.uni-assist.de/) is an intermediary and makes the application process easier. With uni-assist, we only need to send the documents once, and uni assist will verify and forward them to all universities that accept applications through uni-assist. You can read the [checklist here](https://www.uni-assist.de/tools/checklisten/)
+
+
 
