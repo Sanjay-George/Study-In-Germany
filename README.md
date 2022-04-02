@@ -1,7 +1,7 @@
-# Study-In-Germany
+# Study-In-Germany 📚
 This repo intends to be a comprehensive guide to studying in Germany 
 
-## Outline
+## Outline📝
 1. Find the courses / universities you want to apply for
 2. Apply for student dorms in the cities of your preferred universities.
 3. Prepare for and write GRE (optional)
@@ -17,7 +17,7 @@ This repo intends to be a comprehensive guide to studying in Germany
 13. Learn German and meditate while waiting for a response
 14. Fly away!  
 
-## Find the courses / universities
+## Find the courses / universities 🔍
 * Search programmes at [DAAD](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/)
 * Add relevant filters - Course Type, Field of Study, Course Language, etc.
 * For each programme, visit the university's website to understand the important details such as:
@@ -34,20 +34,20 @@ This repo intends to be a comprehensive guide to studying in Germany
 **Note:** Some programmes have no tuition fees, but only semester fees (approx Euro 300 per sem). Some courses need LORs from your previous uni or work place, so check if this is feasible for you.
 
 
-## Apply to student dorms
+## Apply to student dorms 🛖
 * Google Studentenwerk \<cityName\> and apply for a room as early as possible. 
 
 **Tip:** Getting an accommodation is extremely difficult in certain cities, the wait times could be as long as 2 semesters (a year!). Better to apply early and cancel later if you aren't goinig there.
 
 [You can find websites to search for private accommodation here](TODO) 
   
-## Prepare for GRE
+## Prepare for GRE 📕
 **Note:** GRE isn't generally required at most German Universities. However, there are some unis that consider GRE score supplemental to your Degree grades. So if you have a lower grade, a good GRE score could improve your chance of getting accepted. Do this only if the university's website states that they consider GRE Scores.  
 
-## Prepare for English Language Test
+## Prepare for English Language Test 📗
 English-taught programmes need IELTS / TOEFL as Language certificate. The university website will detail the requirement. Generally you'll need to score higher than **CEFR level B2**
 
-## Formulate Statement of Purpose
+## Formulate Statement of Purpose 🤥
 SOP is extremely crucial to the admission process. It could decide whether you make into the programme or not. And since it's a subjective requirement, do spend a lot of time refining your SOP. You can refer the following links to get the idea on how to write an SOP
 1. [Structure is Magic Guide to graduate SOP](http://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/)
 2. [How to write Computer Science SOP](https://writeivy.com/how-to-write-your-computer-science-statement-of-purpose/)
@@ -55,7 +55,7 @@ SOP is extremely crucial to the admission process. It could decide whether you m
 
 **Tip:** Get your SOP reviewed on Reddit. There's a [subreddit for just that](https://www.reddit.com/r/StatementOfPurpose/)
 
-## Apply to Universities ahead of deadlines
+## Apply to Universities ahead of deadlines 📅
 Deadlines are important! So get your documents ready and apply way before the last date.
 
 There are basically 2 ways that universities accept applications:
