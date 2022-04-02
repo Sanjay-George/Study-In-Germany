@@ -5,7 +5,7 @@ This repo intends to be a comprehensive guide to studying in Germany
 1. Find the courses / universities you want to apply for
 2. Apply for student dorms in the cities of your preferred universities.
 3. Prepare for and write GRE (optional)
-4. Prepare for and write IELTS (compulsory for English-taught courses)
+4. Prepare for and write English Language Test - IELTS / TOEFL (compulsory for English-taught courses)
 5. Prepare for and write German Language test (for German-taught courses)
 6. Formulate your Statement of Purpose (extremely important!)
 7. Apply to the universities ahead of deadlines
@@ -20,7 +20,14 @@ This repo intends to be a comprehensive guide to studying in Germany
 ## Find the courses / universities
 * Search programmes at [DAAD](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/)
 * Add relevant filters - Course Type, Field of Study, Course Language, etc.
-* For each programme, visit the university's website to understand the application deadlines, fees, programme structure, course requirements. 
+* For each programme, visit the university's website to understand the important details such as:
+1. Deadlines (application, enrolment)
+2. Application criteria (IELTS, LOR etc)
+3. Uni assist
+4. Start of semester
+5. Course modules and duration
+6. About the City (Cost of living, part time jobs)
+
 
 **Tip:** Initially, create a list of universities or programmes you like. Then go through them again and shorten it based on your interest. Do 2-3 rounds of shortlisting and then prepare for the requirements of those courses.
 
@@ -28,10 +35,24 @@ This repo intends to be a comprehensive guide to studying in Germany
 
 
 ## Apply to student dorms
-* Google Studentenwerk <cityName> and apply for a room as early as possible. 
+* Google Studentenwerk \<cityName\> and apply for a room as early as possible. 
 
 **Tip:** Getting an accommodation is extremely difficult in certain cities, the wait times could be as long as 2 semesters (a year!). Better to apply early and cancel later if you aren't goinig there.
-  
 
+[You can find websites to search for private accommodation here](TODO) 
   
-  
+## Prepare for GRE
+**Note:** GRE isn't generally required at most German Universities. However, there are some unis that consider GRE score supplemental to your Degree grades. So if you have a lower grade, a good GRE score could improve your chance of getting accepted. Do this only if the university's website states that they consider GRE Scores.  
+
+## Prepare for English Language Test
+English-taught programmes need IELTS / TOEFL as Language certificate. The university website will detail the requirement. Generally you'll need to score higher than **CEFR level B2**
+
+## Formulate Statement of Purpose
+SOP is extremely crucial to the admission process. It could decide whether you make into the programme or not. And since it's a subjective requirement, do spend a lot of time refining your SOP. You can refer the following links to get the idea on how to write an SOP
+1. [Structure is Magic Guide to graduate SOP](http://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/)
+2. [How to write Computer Science SOP](https://writeivy.com/how-to-write-your-computer-science-statement-of-purpose/)
+3. [DAAD - advice for motivation letter](https://www2.daad.de/medien/deutschland/stipendien/formulare/advice-for-motivation-letter.pdf)
+
+**Tip:** Get your SOP reviewed on Reddit. There's a [subreddit for just that](https://www.reddit.com/r/StatementOfPurpose/)
+
+
