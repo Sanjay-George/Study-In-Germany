@@ -1,5 +1,5 @@
 # Study-In-Germany 📚
-This repo intends to be a comprehensive guide to studying in Germany 
+This repo intends to be a comprehensive guide to studying in Germany. This README is under progress. Please contribute! 
 
 ## Outline📝
 1. Find the courses / universities you want to apply for
