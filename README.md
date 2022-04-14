@@ -110,7 +110,8 @@ If you haven't already, learn the German language. Some good free courses for be
 2. Duolingo
 3. Wunderbla (free for a month)
 
-
+## Fly away! ✈️
+Book your flights as soon as you get your visa to get at cheaper rates. Also check out for student offers!
 
 
 
