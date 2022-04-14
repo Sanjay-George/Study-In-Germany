@@ -40,7 +40,11 @@ Please ask your doubts and concerns in the 😈📕 group: [Indian Students In G
 
 **Tip:** Getting an accommodation is extremely difficult in certain cities, the wait times could be as long as 2 semesters (a year!). Better to apply early and cancel later if you aren't goinig there.
 
-[You can find websites to search for private accommodation here](TODO) 
+Here are some of the websites to search for private accommodations:
+1. [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
+2. [WG Gesucht](https://www.wg-gesucht.de/)
+
+**Google Search Terms:** 'wg <cityname>', 'zimmer <cityname>', 'wohnung in <cityname>', etc.
   
 ## Prepare for GRE 📕
 **Note:** GRE isn't generally required at most German Universities. However, there are some unis that consider GRE score supplemental to your Degree grades. So if you have a lower grade, a good GRE score could improve your chance of getting accepted. Do this only if the university's website states that they consider GRE Scores.  
