@@ -16,7 +16,7 @@ This repo intends to be a guide to studying in Germany. It is under progress. Pl
 12. Learn German and meditate while waiting for a response
 13. Fly away!  
 
-Please ask your doubts and concerns in the 😈📕 group: [Indian Students In Germany](https://www.facebook.com/groups/www.unitutor.de/)
+**Please ask your doubts and concerns on the facebook group:** [Indian Students In Germany](https://www.facebook.com/groups/www.unitutor.de/). Someone will surely help you there!
 
 ## Find the courses / universities 🔍
 * Search programmes at [DAAD](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/)
