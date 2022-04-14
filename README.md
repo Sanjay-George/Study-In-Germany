@@ -2,13 +2,13 @@
 This repo intends to be a comprehensive guide to studying in Germany. This README is under progress. Please contribute! 
 
 ## Outline📝
-1. Find the courses / universities you want to apply for
-2. Apply for student dorms in the cities of your preferred universities.
-3. Prepare for and write GRE (optional)
-4. Prepare for and write English Language Test - IELTS / TOEFL (compulsory for English-taught courses)
+1. [Find the courses / universities you want to apply for](https://github.com/Sanjay-George/Study-In-Germany#find-the-courses--universities-)
+2. [Apply for student dorms in the cities of your preferred universities.](https://github.com/Sanjay-George/Study-In-Germany#apply-to-student-dorms-)
+3. [Prepare for and write GRE (optional)](https://github.com/Sanjay-George/Study-In-Germany#prepare-for-gre-)
+4. [Prepare for and write English Language Test - IELTS / TOEFL (compulsory for English-taught courses)](https://github.com/Sanjay-George/Study-In-Germany#prepare-for-english-language-test-)
 5. Prepare for and write German Language test (for German-taught courses)
-6. Formulate your Statement of Purpose (extremely important!)
-7. Apply to the universities ahead of deadlines
+6. [Formulate your Statement of Purpose (extremely important!)](https://github.com/Sanjay-George/Study-In-Germany#formulate-statement-of-purpose-)
+7. [Apply to the universities ahead of deadlines](https://github.com/Sanjay-George/Study-In-Germany#apply-to-universities-ahead-of-deadlines-)
 8. Take a deep breath and wait! It's gonna take some time for them to respond
 9. Take appointment for German Visa (at VFS or the Consulate)
 10. Create Blocked Account
