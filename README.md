@@ -10,7 +10,7 @@ This repo intends to be a guide to studying in Germany. It is in progress. Pleas
 6. [Formulate your Statement of Purpose (extremely important!)](https://github.com/Sanjay-George/Study-In-Germany#formulate-statement-of-purpose-)
 7. [Apply to the universities ahead of deadlines](https://github.com/Sanjay-George/Study-In-Germany#apply-to-universities-ahead-of-deadlines-)
 8. [Take a deep breath and wait! It's gonna take some time for them to respond](https://github.com/Sanjay-George/Study-In-Germany#take-a-deep-breath--and-wait-for-the-acceptance-letter)
-9. Take an appointment for German Visa (at VFS or the Consulate)
+9. [Book an appointment for German Visa (at VFS or the Consulate)](https://github.com/Sanjay-George/Study-In-Germany#book-an-appointment-for-german-student-visa-at-vfs-or-the-consulate-%EF%B8%8F)
 10. [Open a blocked account, take public health insurance, and take travel (incoming) insurance](https://github.com/Sanjay-George/Study-In-Germany#open-a-blocked-account-take-public-health-insurance-and-take-travel-insurance-%EF%B8%8F)
 11. [Submit all docs and pay the relevant fees at VFS / Consulate](https://github.com/Sanjay-George/Study-In-Germany#submit-all-docs-and-pay-the-relevant-fees-at-vfs--consulate-)
 12. [Learn German and meditate while waiting for a response](https://github.com/Sanjay-George/Study-In-Germany#learn-the-german-language-and-meditate-while-awaiting-a-response-)
