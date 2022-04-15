@@ -40,6 +40,7 @@ This repo intends to be a guide to studying in Germany. It is under progress. Pl
 
 **Tip:** Getting an accommodation is extremely difficult in certain cities, the wait times could be as long as 2 semesters (a year!). Better to apply early and cancel later if you aren't goinig there.
 
+You should also search for private accommodations, since you shouldn't put all your 🥚 in the same 🛒. 
 Here are some of the websites to search for **private accommodations**:
 1. [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
 2. [WG Gesucht](https://www.wg-gesucht.de/)
@@ -90,7 +91,7 @@ Now this part may seem to be the most demanding, and you're not wrong! But don't
 
 [Here you can download the checklist](https://india.diplo.de/blob/1862506/802672af6cafefeb9c1ebf3d4568cf88/student-data.pdf) of the documents needed for German student visa application. Alternatively, you can just google 'German Student Visa checklist'
 
-Here's the checklist:
+Here's what you'll need:
 * Valid passport (take photocopies of the front and address page)
 * Fill out the main [application form](https://videx-national.diplo.de/videx/visum-erfassung/#/videx-langfristiger-aufenthalt) and take printout of the same
 
