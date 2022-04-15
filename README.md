@@ -21,16 +21,16 @@ This repo intends to be a guide to studying in Germany. It is under progress. Pl
 ## Find the courses / universities 🔍
 * Search programmes at [DAAD](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/)
 * Add relevant filters - Course Type, Field of Study, Course Language, etc.
-* For each programme, visit the university's website to understand the important details such as:
+* For each programme, visit the university's website to understand important details such as:
 1. Deadlines (application, enrolment)
-2. Application criteria (IELTS, LOR etc)
-3. Uni assist
-4. Start of semester
+2. Application criteria (Minimum Grades, IELTS, LOR etc)
+3. Application medium - Direct application or through Uni assist
+4. Start of the semester
 5. Course modules and duration
 6. About the City (Cost of living, part time jobs)
 
 
-**Tip:** Initially, create a list of universities or programmes you like. Then go through them again and shorten it based on your interest. Do 2-3 rounds of shortlisting and then prepare for the requirements of those courses.
+**Tip:** Initially, create a list of universities or programmes you like. Then go through them again and shorten it based on your interest and other criteria such as fees, LOR, application deadlines, etc. Do 2-3 rounds of shortlisting and then prepare for the requirements of those courses.
 
 **Note:** Some programmes have no tuition fees, but only semester fees (approx Euro 300 per sem). Some courses need LORs from your previous uni or work place, so check if this is feasible for you.
 
@@ -45,7 +45,7 @@ Here are some of the websites to search for **private accommodations**:
 1. [Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/)
 2. [WG Gesucht](https://www.wg-gesucht.de/)
 
-**Google these keywords:** 'wg <cityname>', 'zimmer <cityname>', 'wohnung in <cityname>', etc.
+**Google these keywords:** 'wg \<cityname\>', 'zimmer \<cityname\>', 'wohnung in \<cityname\>', etc.
   
 ## Prepare for GRE 📕
 **Note:** GRE isn't generally required at most German Universities. However, there are some unis that consider GRE score supplemental to your Degree grades. So if you have a lower grade, a good GRE score could improve your chance of getting accepted. Do this only if the university's website states that they consider GRE Scores.  
