@@ -1,5 +1,5 @@
 # Study-In-Germany 📚
-This repo intends to be a guide to studying in Germany. It is under progress. Please contribute by creating a PR or issue! 
+This repo intends to be a guide to studying in Germany. It is in progress. Please contribute by creating a PR or an issue! 
 
 ## Outline📝
 1. [Find the courses / universities you want to apply for](https://github.com/Sanjay-George/Study-In-Germany#find-the-courses--universities-)
@@ -66,11 +66,13 @@ Deadlines are important! So get your documents ready and apply way before the la
 
 There are basically 2 ways that universities accept applications:
 1. **Direct Application:** This differs from uni to uni, so follow the instructions on their website. Most probably you'll need to send physical documents to the university (probably even notarized).
-2. **Through Uni-Assist:** This is easy! [Uni Assist](https://my.uni-assist.de/) is an intermediary and makes the application process easier. With uni-assist, we only need to send the documents once, and uni assist will verify and forward them to all universities that accept applications through uni-assist. You can read the [checklist here](https://www.uni-assist.de/tools/checklisten/)
+2. **Through Uni-Assist:** This is easy! [Uni Assist](https://my.uni-assist.de/) is an intermediary and makes the application process easier. With uni-assist, you only need to send the documents (hardcopy, notarized) once, and uni assist will verify and forward them to all universities partnering with them (Again, check your university's website carefully). You can read the [checklist here](https://www.uni-assist.de/tools/checklisten/). They also have something known as a **VPD**, where you **only** need to upload the documents (soft-copy) on uni-assist. VPD procedure is only accepted by a few universities.
 
 **Tip:** If you use DHL for sending your documents, ask them about any student offer or discount. 
 
-**Note:** Any application that is forwarded through uni-assist needs to reach uni-assist by the deadline mentioned in university website. **Eg:** If the deadline is 31 October, your hard copies need to reach uni assist by that date.
+**Note:** Any application that is forwarded through uni-assist needs to reach uni-assist by the deadline mentioned on university website. **Eg:** If the deadline is 31 October, your hard copies need to reach uni assist by that date. There will be a later deadline agreed between the universities and uni-assist, and uni-assist will forward your application before that deadline.
+
+**Note #2:** While sending physical documents to uni assist, also send your uni assist application form that contains your application number. 
 
 ## Take a deep breath 😤🫁 and wait for the acceptance letter
 If you haven't been in a relationship, this is going to be the most challenging test of your patience. Terrible jokes aside, it's gonna take a while for universities to review your application (along with so many others) and respond. Some universities might have an entrance exam, in which case you will hear from them sooner.
