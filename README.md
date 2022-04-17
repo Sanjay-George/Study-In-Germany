@@ -19,7 +19,7 @@ This repo intends to be a guide to studying in Germany. It is in progress. Pleas
 **Please ask your doubts and concerns on the facebook group:** [Indian Students In Germany](https://www.facebook.com/groups/www.unitutor.de/). Someone will surely help you there!
 
 ## Find the courses / universities 🔍
-* Search programmes at [DAAD](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/)
+* Search programmes on [DAAD.DE](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/)
 * Add relevant filters - Course Type, Field of Study, Course Language, etc.
 * For each programme, visit the university's website to understand important details such as:
 1. Deadlines (application, enrolment)
@@ -78,12 +78,12 @@ There are basically 2 ways that universities accept applications:
 If you haven't been in a relationship, this is going to be the most challenging test of your patience. Terrible jokes aside, it's gonna take a while for universities to review your application (along with so many others) and respond. Some universities might have an entrance exam, in which case you will hear from them sooner.
 
 ## Book an appointment for German Student Visa (at VFS or the Consulate) ⚠️
-The moment you get a positive response from one of the universities that you applied to, start thinking about getting a German Student Visa. And the first step is to take an appointment at VFS or the German Consulate. Remember that there are a large number of immigrations happening, and **there could be a waiting list of a few weeks**. So take the appointment as early as possible! 
+The moment you get a positive response from one of the universities that you applied to, start thinking about getting a German Student Visa. And the first step is to book an appointment at VFS or the German Consulate. Remember that there are a large number of immigrations happening, and **you could be on a waiting list for a few weeks**. So book the appointment as early as possible! 
 
 ## Open a blocked account, take public health insurance, and take travel insurance 💰✈️
 Soon after booking an appointment at VFS, open a blocked account, and take necessary insurances. 
 * The blocked account is important as a proof of financing your study in Germany, and it's important for your visa approval. 
-* The health insurance is important for your stay in Germany. You won't be allowed to stay in Germany without a health insurance.
+* The health insurance is important for your stay in Germany. You can't get a residence permit without an active health insurance.
 * The travel insurance is for your travel to Germany until the time your health insurance is activated. Usually it's valid for 3 months from the time of your arrival in Germany.
 
 You could take all 3 as a package. Here are some blogs / articles on blocked accounts and packages:
@@ -91,7 +91,7 @@ You could take all 3 as a package. Here are some blogs / articles on blocked acc
 2. [Comparison of Blocked Account packages - DeGiS - degis.info](https://www.degis.info/blocked-account/comparison-blocked-account-packages/)
 3. [Blocked Account Germany - 2021 Review | Banks Germany (banks-germany.com)](https://banks-germany.com/blocked-account-germany#what-is-a-blocked-account)
 
-I had taken the Expatrio Value package, which includes a **blocked account**, TK public **health insurance**, and **incoming (travel) insurance**, **all 3 of which are important for your visa application**. There are other package options such as Fintiba and Coracle. Please check the above blogs, or Google more to see what suits you the best!
+I had taken the Expatrio Value package, which includes a **blocked account**, TK public **health insurance**, and **incoming (travel) insurance**. There are other package options such as Fintiba and Coracle. Please check the above blogs, or Google more to see what suits you the best!
 
 
 ## Submit all docs and pay the relevant fees at VFS / Consulate ✅
