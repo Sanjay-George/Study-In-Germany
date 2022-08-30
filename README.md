@@ -119,9 +119,10 @@ Here's what you'll need:
 
 ## Learn the German language and meditate while awaiting a response 🏫
 If you haven't already, learn the German language. Some good free courses for beginners:
-1. GermanPod101
+1. GermanPod101 *[Update: They removed most of the free lessons! They had a great free course for upto A2 Level]*
 2. Duolingo
 3. Wunderbla (free for a month)
+4. https://learngerman.dw.com/en/learn-german/s-9528 [*I follow this now*]
 
 ## Fly away! ✈️
 Book your flights as soon as you get your visa to get at cheaper rates. Also check out for student offers!
